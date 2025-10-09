@@ -1,123 +1,216 @@
 <!-- Animated Header with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Om%20Dhage&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Om%20Dhage&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer%20%7C%20Java%20Expert%20%7C%20AI%20Enthusiast&descSize=20&descAlignY=55"/>
 
 <div align="center">
 
 <!-- Holographic Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%91%8B+Hey!+I'm+Om+Dhage+-+Full+Stack+Developer;%E2%98%95+Java+Expert+%7C+%F0%9F%90%8D+Python+Wizard+%7C+%E2%9A%9B%EF%B8%8F+React+Ninja;%F0%9F%A4%96+AI+%26+ML+Enthusiast+%7C+%F0%9F%92%BC+Freelancer;%F0%9F%8C%9F+Open+Source+Contributor+%7C+%F0%9F%9A%80+Tech+Explorer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=120&lines=👋+Hey!+I'm+Om+Dhage+-+Your+Next+Developer;☕+Java+Expert+%7C+🐍+Python+Wizard+%7C+⚛️+React+Ninja;🤖+AI+%26+ML+Enthusiast+%7C+💼+Freelancer;🌟+Open+Source+Contributor+%7C+🚀+Tech+Explorer;💻+Turning+Ideas+into+Reality!" alt="Typing SVG" />
+</a>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Animated Badges -->
+<!-- Enhanced Animated Badges with Glow Effect -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00D9FF?style=for-the-badge&labelColor=000000&logo=lightning&logoColor=00D9FF" />
-  <img src="https://img.shields.io/badge/Status-Freelancing-success?style=for-the-badge&labelColor=000000&logo=statuspal&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Based%20In-Nagpur,%20India-FF6B6B?style=for-the-badge&labelColor=000000&logo=google-maps&logoColor=FF6B6B" />
+  <img src="https://img.shields.io/badge/💻_Focus-Full%20Stack%20Development-00D9FF?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🚀_Status-Available%20for%20Hire-00FF00?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/📍_Location-Nagpur,India-FF6B6B?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🎓_Education-BTech%20CSE-FFA500?style=for-the-badge&labelColor=000000" />
 </p>
 
-<!-- Profile Views with Animation -->
+<!-- Profile Stats -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=omdhage&label=👁️%20Profile%20Views&color=00D9FF&style=for-the-badge&abbreviated=true" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/omdhage?label=👥%20Followers&style=for-the-badge&color=00D9FF&labelColor=000000&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/omdhage?label=⭐%20Stars&style=for-the-badge&color=FFD700&labelColor=000000&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/badge/⏰_Response_Time-Within%2024hrs-brightgreen?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/💼_Projects-100%2B%20Completed-FF1493?style=for-the-badge&labelColor=000000" />
 </p>
 
 <!-- Animated Line Break -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- Social Connect Section -->
+<p align="center">
+  <a href="mailto:email.om.dhage@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+  </a>
+  <a href="https://www.linkedin.com/in/om-dhage-03b784320">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+  </a>
+  <a href="tel:+919579612946">
+    <img src="https://img.shields.io/badge/📱_WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" />
+  </a>
+  <a href="https://github.com/omdhage">
+    <img src="https://img.shields.io/badge/⚡_Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </div>
+
+<br>
+
+<!-- Animated Quote Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=💡+%22Code+is+poetry+written+in+logic%22;⚡+Passionate+about+creating+scalable+solutions;🎯+Committed+to+clean+code+%26+best+practices;🚀+Always+learning,+always+growing!" alt="Quote" />
+</div>
+
+<br>
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32">
   About Me
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<div align="center">
+  
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&width=435&lines=👨‍💻+BTech+CSE+Student;💼+Full+Stack+Developer;☕+Java+Expert;🐍+Python+Enthusiast;⚛️+React+Developer;🚀+Freelancer+%26+Creator;🌟+Open+Source+Advocate" alt="Typing SVG" />
-</p>
+### 🚀 Quick Overview
+
+```yaml
+name: Om Dhage
+role: Full-Stack Developer & Freelancer
+location: Nagpur, India 🇮🇳
+education: BTech CSE Student 🎓
+experience: 100+ Projects Completed ⭐
+availability: Open for Freelance 💼
+response_time: Within 24 hours ⚡
+
+contact:
+  email: email.om.dhage@gmail.com
+  phone: +91 9579612946
+  linkedin: om-dhage-03b784320
+  
+specialization:
+  - Web Development (MERN Stack)
+  - Backend Development (Java, Python)
+  - AI/ML Solutions
+  - UI/UX Design
+  - RESTful APIs
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Professional Code
 
 ```javascript
 class OmDhage extends Developer {
   constructor() {
     super();
     this.name = "Om Dhage";
-    this.location = "Nagpur, India 🇮🇳";
-    this.education = "BTech Computer Science Engineering 🎓";
-    this.role = "Full-Stack Developer & Freelancer 💼";
-    this.workingOn = "Building Next-Gen Web Applications 🚀";
-    this.learning = ["Advanced AI/ML", "Cloud Architecture", "System Design"];
+    this.passion = "Creating Digital Excellence";
+    this.mission = "Solving real-world problems";
   }
   
-  get techStack() {
+  get skills() {
     return {
-      languages: ["Java ☕", "Python 🐍", "JavaScript 🟨", "C/C++ ⚡"],
-      frontend: ["React ⚛️", "Bootstrap 🅱️", "Tailwind CSS 🎨", "HTML5/CSS3 🎯"],
-      backend: ["Node.js 🟢", "Flask 🌶️", "Express.js ⚡"],
-      database: ["MongoDB 🍃", "SQL 🗄️"],
-      tools: ["Git 🌿", "GitHub 🐙", "VS Code 💻"],
-      ai_ml: ["NumPy 🔢", "Pandas 🐼", "Machine Learning 🤖"]
+      expert: ["Java", "Python", "JavaScript"],
+      frontend: ["React", "Tailwind", "Bootstrap"],
+      backend: ["Node.js", "Flask", "Express"],
+      database: ["MongoDB", "SQL"],
+      ai_ml: ["NumPy", "Pandas", "Scikit-Learn"],
+      tools: ["Git", "GitHub", "VS Code"]
     };
   }
   
-  get currentStatus() {
-    return {
-      coding: "24/7 💻",
-      coffee: "Always ☕",
-      openToWork: true,
-      freelanceAvailable: true,
-      collaborating: "Always looking for exciting projects! 🌟"
-    };
+  getCurrentFocus() {
+    return [
+      "🔥 Building scalable applications",
+      "🧠 Mastering AI/ML technologies",
+      "☁️ Learning cloud architecture",
+      "🤝 Contributing to open source"
+    ];
   }
   
-  sayHi() {
-    console.log("Thanks for stopping by! Let's build something epic together! 🚀");
+  hireMeFor(project) {
+    if (project.needsQuality && project.meetsDeadlines) {
+      return "Let's build it together! 🚀";
+    }
   }
 }
 
-const om = new OmDhage();
-om.sayHi();
+const developer = new OmDhage();
+console.log(developer.hireMeFor({ 
+  needsQuality: true, 
+  meetsDeadlines: true 
+}));
 ```
 
-<br clear="right"/>
+</td>
+</tr>
+</table>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
-  🎯 Professional Highlights
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+  What Sets Me Apart
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="32">
 </h2>
 
 <div align="center">
 
 <table>
 <tr>
-  <td align="center" width="25%">
-    <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png" width="48"/>
-    <br><strong>Java Expert</strong>
-    <br><sub>Advanced OOP & DSA</sub>
-    <br><sub>Backend Architecture</sub>
+  <td align="center" width="20%">
+    <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png" width="64"/>
+    <br><br>
+    <strong>☕ Java Mastery</strong>
+    <br><br>
+    <sub>✓ Advanced OOP</sub><br>
+    <sub>✓ Data Structures</sub><br>
+    <sub>✓ Spring Boot</sub><br>
+    <sub>✓ Microservices</sub>
   </td>
-  <td align="center" width="25%">
-    <img src="https://img.icons8.com/fluency/96/000000/code.png" width="48"/>
-    <br><strong>Full-Stack Dev</strong>
-    <br><sub>MERN/FERN Stack</sub>
-    <br><sub>Responsive Design</sub>
+  <td align="center" width="20%">
+    <img src="https://img.icons8.com/fluency/96/000000/code.png" width="64"/>
+    <br><br>
+    <strong>⚛️ Full-Stack Pro</strong>
+    <br><br>
+    <sub>✓ MERN Stack</sub><br>
+    <sub>✓ Responsive UI</sub><br>
+    <sub>✓ RESTful APIs</sub><br>
+    <sub>✓ Modern Design</sub>
   </td>
-  <td align="center" width="25%">
-    <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="48"/>
-    <br><strong>AI & ML</strong>
-    <br><sub>NumPy, Pandas</sub>
-    <br><sub>Data Science</sub>
+  <td align="center" width="20%">
+    <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="64"/>
+    <br><br>
+    <strong>🤖 AI/ML Expert</strong>
+    <br><br>
+    <sub>✓ Data Analysis</sub><br>
+    <sub>✓ NumPy/Pandas</sub><br>
+    <sub>✓ ML Models</sub><br>
+    <sub>✓ Algorithms</sub>
   </td>
-  <td align="center" width="25%">
-    <img src="https://img.icons8.com/color/96/000000/freelance.png" width="48"/>
-    <br><strong>Freelancer</strong>
-    <br><sub>100+ Projects</sub>
-    <br><sub>Client Satisfaction</sub>
+  <td align="center" width="20%">
+    <img src="https://img.icons8.com/color/96/000000/speed.png" width="64"/>
+    <br><br>
+    <strong>⚡ Fast Delivery</strong>
+    <br><br>
+    <sub>✓ Agile Method</sub><br>
+    <sub>✓ Quick Turnaround</sub><br>
+    <sub>✓ 24hr Response</sub><br>
+    <sub>✓ Timely Updates</sub>
+  </td>
+  <td align="center" width="20%">
+    <img src="https://img.icons8.com/color/96/000000/five-stars.png" width="64"/>
+    <br><br>
+    <strong>🌟 Quality Assured</strong>
+    <br><br>
+    <sub>✓ Clean Code</sub><br>
+    <sub>✓ Best Practices</sub><br>
+    <sub>✓ Well Documented</sub><br>
+    <sub>✓ Fully Tested</sub>
   </td>
 </tr>
 </table>
@@ -236,58 +329,6 @@ om.sayHi();
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
-  📊 GitHub Analytics & Performance Metrics
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32">
-</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omdhage&theme=radical" alt="Profile Summary"/>
-</p>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omdhage&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=c9d1d9&border_radius=10"/>
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=omdhage&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&border_radius=10"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omdhage&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&border_radius=10&card_width=350"/>
-      </td>
-      <td>
-        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omdhage&theme=radical&utcOffset=5.5"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omdhage&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true&border_radius=10&custom_title=Contribution%20Graph" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  🏆 GitHub Achievements & Trophies
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="32">
-</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omdhage&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
   💡 What I'm Currently Up To
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="32">
 </h2>
@@ -296,27 +337,86 @@ om.sayHi();
 
 <table>
 <tr>
-  <td>
+<td width="50%" valign="top">
+
+### 🎯 Current Focus
+
+```python
+class CurrentGoals:
+    def __init__(self):
+        self.working_on = [
+            "🔥 Building AI-powered web apps",
+            "💼 Delivering freelance projects",
+            "📚 Learning System Design",
+            "☁️ Exploring Cloud Services"
+        ]
+        
+        self.learning = {
+            "advanced": ["Microservices", "DevOps"],
+            "cloud": ["AWS", "Docker", "Kubernetes"],
+            "ai_ml": ["Deep Learning", "NLP"],
+            "architecture": ["System Design", "Scalability"]
+        }
+        
+        self.goals_2025 = [
+            "✅ Master Cloud Architecture",
+            "✅ Contribute to 100+ Open Source",
+            "✅ Launch Personal SaaS Product",
+            "✅ Build AI Solutions Portfolio"
+        ]
     
-```typescript
-const currentStatus = {
-  🔭 working_on: "Building scalable Full-Stack applications",
-  🌱 learning: ["Advanced System Design", "Cloud Architecture", "DevOps"],
-  👯 looking_to: "Collaborate on innovative Open Source projects",
-  💼 available_for: "Freelance Web Development & Consulting",
-  🎯 2025_goals: [
-    "Master Microservices Architecture",
-    "Contribute to 100+ Open Source Projects",
-    "Build AI-powered Web Applications",
-    "Launch Personal SaaS Product"
-  ],
-  💬 ask_me_about: ["Web Dev", "Java", "React", "AI/ML", "DSA"],
-  ⚡ fun_fact: "I debug with console.log() and I'm not ashamed! 😅",
-  ☕ coffee_status: "Always brewing... ☕→💻→🚀"
-};
+    def availability(self):
+        return {
+            "freelance": "✅ Available",
+            "collaboration": "✅ Open",
+            "consultation": "✅ Free initial call",
+            "response_time": "⚡ Within 24 hours"
+        }
+
+goals = CurrentGoals()
+print(goals.availability())
 ```
 
-  </td>
+</td>
+<td width="50%" valign="top">
+
+### 🔥 Development Workflow
+
+```mermaid
+graph LR
+    A[💡 Idea] --> B[📋 Planning]
+    B --> C[🎨 Design]
+    C --> D[💻 Development]
+    D --> E[🧪 Testing]
+    E --> F[🚀 Deployment]
+    F --> G[� Monitoring]
+    G --> H[🔄 Optimization]
+    
+    style A fill:#ff6b6b
+    style D fill:#00d9ff
+    style F fill:#00ff00
+```
+
+### 📈 Expertise Level
+
+```plaintext
+Java            ████████████████████ 95%
+Python          ██████████████████░░ 90%
+JavaScript      ███████████████████░ 92%
+React           ██████████████████░░ 88%
+Node.js         ████████████████░░░░ 85%
+SQL/NoSQL       ███████████████████░ 90%
+AI/ML           ████████████████░░░░ 80%
+Git/GitHub      ████████████████████ 95%
+Problem Solving █████████████████████ 98%
+```
+
+### 💬 Ask Me About
+`Web Development` `Java` `Python` `React` `Node.js` 
+`MongoDB` `AI/ML` `Data Structures` `Algorithms` 
+`System Design` `Cloud` `DevOps` `Freelancing`
+
+</td>
 </tr>
 </table>
 
@@ -357,7 +457,6 @@ const currentStatus = {
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=📧+email.om.dhage@gmail.com;📱+%2B91+9579612946;📍+Nagpur%2C+India;💼+Open+to+Freelance+Projects!" alt="Contact Info" />
 
 </div>
 
@@ -375,7 +474,7 @@ const currentStatus = {
   <td align="center" width="25%">
     <img src="https://img.icons8.com/color/96/000000/domain.png" width="64"/>
     <br><br>
-    <strong>🌐 Full-Stack Web Development</strong>
+    <strong>🌐 Web Development</strong>
     <br><br>
     <sub>React • Node.js • MongoDB</sub>
     <br><sub>Responsive & Modern UI</sub>
@@ -431,75 +530,129 @@ const currentStatus = {
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=💡+Have+a+Project+in+Mind%3F;📩+Let's+Turn+Your+Ideas+into+Reality!;🚀+Contact+Me+for+a+Free+Consultation!" alt="CTA" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=💡+Have+a+Project+in+Mind%3F;📩+Let's+Turn+Your+Ideas+into+Reality!;🚀+Contact+Me+for+a+Free+Consultation!" alt="CTA" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=omdhage&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9" />
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
-  💭 Random Dev Quote
+  💭 Inspirational Dev Quote
   <img src="https://media.giphy.com/media/l0HlGdHM0hINWPPfW/giphy.gif" width="32">
 </h2>
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
+[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<br>
+
+### 🎯 Fun Facts About Me
+
+<table>
+<tr>
+<td align="center">☕<br><sub>Coffee addict<br>10 cups/day</sub></td>
+<td align="center">🌙<br><sub>Night coder<br>Best at 2 AM</sub></td>
+<td align="center">🐛<br><sub>Debug master<br>console.log() FTW</sub></td>
+<td align="center">🎧<br><sub>Code + Music<br>Perfect combo</sub></td>
+<td align="center">📚<br><sub>Always learning<br>Never stopping</sub></td>
+<td align="center">🚀<br><sub>Ship fast<br>Iterate faster</sub></td>
+</tr>
+</table>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
+
 <h2>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="48"> Support My Work
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="48">
+  Let's Build Something Amazing Together!
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="48">
 </h2>
 
 <p>⭐ If you find my projects interesting, consider giving them a star!</p>
 <p>🔔 Follow me for more amazing content and open-source contributions!</p>
-<p>💬 Feel free to reach out for collaborations or just a friendly chat!</p>
+<p>💬 Feel free to reach out for collaborations or just a friendly tech chat!</p>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Thanks+for+visiting+my+profile!;%F0%9F%92%BB+Let's+build+something+awesome+together!;%F0%9F%8C%9F+Happy+Coding!+%F0%9F%9A%80" alt="Closing" />
+<!-- Animated Closing Message -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=✨+Thanks+for+visiting+my+profile!;💻+Let's+build+something+awesome+together!;🌟+Happy+Coding!+Keep+Building!+🚀;📫+Always+open+to+interesting+projects!" alt="Closing" />
 
-<br>
+<br><br>
 
-### 💭 *"First, solve the problem. Then, write the code."* – John Johnson
-
-<br>
-
+<!-- Stats and Motto -->
 <table>
 <tr>
-<td align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="200">
+<td align="center" width="33%">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="150">
+  <br><br>
+  <strong>🎨 Creative</strong>
+  <br><sub>Innovative Solutions</sub>
 </td>
-<td align="center">
-<h3>Made with ❤️ by Om Dhage</h3>
-<p><em>"Crafting digital experiences, one line of code at a time!"</em></p>
-<br>
-<img src="https://komarev.com/ghpvc/?username=omdhage&label=Thanks%20for%20visiting&color=00D9FF&style=for-the-badge" />
+<td align="center" width="34%">
+  <h3>🚀 Made by Om Dhage</h3>
+  <p><em>"Transforming ideas into elegant code,<br>one commit at a time!"</em></p>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=omdhage&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
+  <br><br>
+  <strong>💬 "First, solve the problem. Then, write the code."</strong>
+  <br><sub>- John Johnson</sub>
 </td>
-<td align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="200">
+<td align="center" width="33%">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="150">
+  <br><br>
+  <strong>⚡ Efficient</strong>
+  <br><sub>Optimized Performance</sub>
 </td>
 </tr>
 </table>
 
 <br>
 
+<!-- Tech Journey Timeline -->
+<details>
+<summary><b>🎯 My Tech Journey (Click to expand)</b></summary>
+<br>
+
+```mermaid
+timeline
+    title My Developer Journey
+    2021 : Started with C/C++
+         : Learned Programming Basics
+    2022 : Mastered Java
+         : DSA & OOP Expert
+    2023 : Web Development
+         : Full-Stack MERN
+    2024 : AI/ML & Python
+         : Data Science
+    2025 : Cloud & DevOps
+         : Scaling Applications
+         : 100+ Projects Completed!
+```
+
+</details>
+
+<br>
+
+<!-- Quick Links -->
+### 🔗 Quick Links
+
+<a href="#-about-me">👤 About</a> •
+<a href="#-tech-arsenal--superpowers">💻 Skills</a> •
+<a href="#-freelance-services--expertise">💼 Services</a> •
+<a href="mailto:email.om.dhage@gmail.com">📧 Contact</a> •
+<a href="https://www.linkedin.com/in/om-dhage-03b784320">🔗 LinkedIn</a>
+
+<br>
+
 <!-- Footer Wave Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling&fontAlignY=50"/>
 
 </div>
