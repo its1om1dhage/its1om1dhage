@@ -13,7 +13,7 @@
 
 <!-- Enhanced Animated Badges with Glow Effect -->
 <p align="center">
-  <img src="https://img.shields.io/badge/💻_Focus-Full%20Stack%20Development-00D9FF?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/💻_Focus-Web%20Development-00D9FF?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/🚀_Status-Available%20for%20Hire-00FF00?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/📍_Location-Nagpur,India-FF6B6B?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/🎓_Education-BTech%20CSE-FFA500?style=for-the-badge&labelColor=000000" />
@@ -152,70 +152,7 @@ console.log(developer.hireMeFor({
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
-  What Sets Me Apart
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="32">
-</h2>
 
-<div align="center">
-
-<table>
-<tr>
-  <td align="center" width="20%">
-    <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png" width="64"/>
-    <br><br>
-    <strong>☕ Java Mastery</strong>
-    <br><br>
-    <sub>✓ Advanced OOP</sub><br>
-    <sub>✓ Data Structures</sub><br>
-    <sub>✓ Spring Boot</sub><br>
-    <sub>✓ Microservices</sub>
-  </td>
-  <td align="center" width="20%">
-    <img src="https://img.icons8.com/fluency/96/000000/code.png" width="64"/>
-    <br><br>
-    <strong>⚛️ Full-Stack Pro</strong>
-    <br><br>
-    <sub>✓ MERN Stack</sub><br>
-    <sub>✓ Responsive UI</sub><br>
-    <sub>✓ RESTful APIs</sub><br>
-    <sub>✓ Modern Design</sub>
-  </td>
-  <td align="center" width="20%">
-    <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="64"/>
-    <br><br>
-    <strong>🤖 AI/ML Expert</strong>
-    <br><br>
-    <sub>✓ Data Analysis</sub><br>
-    <sub>✓ NumPy/Pandas</sub><br>
-    <sub>✓ ML Models</sub><br>
-    <sub>✓ Algorithms</sub>
-  </td>
-  <td align="center" width="20%">
-    <img src="https://img.icons8.com/color/96/000000/speed.png" width="64"/>
-    <br><br>
-    <strong>⚡ Fast Delivery</strong>
-    <br><br>
-    <sub>✓ Agile Method</sub><br>
-    <sub>✓ Quick Turnaround</sub><br>
-    <sub>✓ 24hr Response</sub><br>
-    <sub>✓ Timely Updates</sub>
-  </td>
-  <td align="center" width="20%">
-    <img src="https://img.icons8.com/color/96/000000/five-stars.png" width="64"/>
-    <br><br>
-    <strong>🌟 Quality Assured</strong>
-    <br><br>
-    <sub>✓ Clean Code</sub><br>
-    <sub>✓ Best Practices</sub><br>
-    <sub>✓ Well Documented</sub><br>
-    <sub>✓ Fully Tested</sub>
-  </td>
-</tr>
-</table>
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
