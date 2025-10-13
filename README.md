@@ -361,95 +361,17 @@ Problem Solving █████████████████████ 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
-## 🎯 Coding Activity
 
-<div align="center">
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
-</div>
-
-<h2 align="center">
-  📫 Let's Connect & Collaborate!
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="64">
-</h2>
-
-<div align="center">
-
-<a href="mailto:email.om.dhage@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://www.linkedin.com/in/om-dhage-03b784320">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
-</a>
-<a href="tel:+919579612946">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://github.com/omdhage">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" />
-</a>
-
-<br><br>
 
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">
-  💼 Freelance Services & Expertise
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="32">
-</h2>
 
-<div align="center">
-
-<table>
-<tr>
-  <td align="center" width="25%">
-    <img src="https://img.icons8.com/color/96/000000/domain.png" width="64"/>
-    <br><br>
-    <strong>🌐 Web Development</strong>
-    <br><br>
-    <sub>React • Node.js • MongoDB</sub>
-    <br><sub>Responsive & Modern UI</sub>
-    <br><br>
-    <img src="https://img.shields.io/badge/STATUS-AVAILABLE-success?style=for-the-badge&labelColor=000000" />
-  </td>
-  <td align="center" width="25%">
-    <img src="https://img.icons8.com/color/96/000000/api-settings.png" width="64"/>
-    <br><br>
-    <strong>⚙️ Backend Development</strong>
-    <br><br>
-    <sub>Java • Python • REST APIs</sub>
-    <br><sub>Microservices Architecture</sub>
-    <br><br>
-    <img src="https://img.shields.io/badge/STATUS-AVAILABLE-success?style=for-the-badge&labelColor=000000" />
-  </td>
-  <td align="center" width="25%">
-    <img src="https://img.icons8.com/color/96/000000/web-design.png" width="64"/>
-    <br><br>
-    <strong>🎨 UI/UX Design</strong>
-    <br><br>
-    <sub>Bootstrap • Tailwind CSS</sub>
-    <br><sub>Modern & Responsive</sub>
-    <br><br>
-    <img src="https://img.shields.io/badge/STATUS-AVAILABLE-success?style=for-the-badge&labelColor=000000" />
-  </td>
-  <td align="center" width="25%">
-    <img src="https://img.icons8.com/color/96/000000/brain.png" width="64"/>
-    <br><br>
-    <strong>🤖 AI/ML Solutions</strong>
-    <br><br>
-    <sub>Python • NumPy • Pandas</sub>
-    <br><sub>Data Science & Analysis</sub>
-    <br><br>
-    <img src="https://img.shields.io/badge/STATUS-AVAILABLE-success?style=for-the-badge&labelColor=000000" />
-  </td>
-</tr>
-</table>
 
 <br>
 
@@ -475,14 +397,6 @@ Problem Solving █████████████████████ 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">
-  💭 Inspirational Dev Quote
-  <img src="https://media.giphy.com/media/l0HlGdHM0hINWPPfW/giphy.gif" width="32">
-</h2>
-
-<div align="center">
-
-[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <br>
 
@@ -498,6 +412,8 @@ Problem Solving █████████████████████ 
 <td align="center">🚀<br><sub>Ship fast<br>Iterate faster</sub></td>
 </tr>
 </table>
+
+<br>
 
 </div>
 
@@ -524,32 +440,7 @@ Problem Solving █████████████████████ 
 
 <br><br>
 
-<!-- Stats and Motto -->
-<table>
-<tr>
-<td align="center" width="33%">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="150">
-  <br><br>
-  <strong>🎨 Creative</strong>
-  <br><sub>Innovative Solutions</sub>
-</td>
-<td align="center" width="34%">
-  <h3>🚀 Made by Om Dhage</h3>
-  <p><em>"Transforming ideas into elegant code,<br>one commit at a time!"</em></p>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=omdhage&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
-  <br><br>
-  <strong>💬 "First, solve the problem. Then, write the code."</strong>
-  <br><sub>- John Johnson</sub>
-</td>
-<td align="center" width="33%">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="150">
-  <br><br>
-  <strong>⚡ Efficient</strong>
-  <br><sub>Optimized Performance</sub>
-</td>
-</tr>
-</table>
+
 
 <br>
 
