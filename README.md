@@ -150,12 +150,6 @@ Transform designs into responsive, interactive interfaces using React, Tailwind 
 
 <br>
 
-## 📊 GitHub Activity
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omdhage&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omdhage&layout=compact&theme=radical&hide_border=true"/>
-</div>
 
 <br>
 
