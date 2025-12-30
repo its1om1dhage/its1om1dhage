@@ -52,103 +52,7 @@ I'm a passionate developer who loves turning complex problems into elegant solut
 
 <br>
 
-## �️ Tech Stack
 
-<details open>
-<summary><b>💻 Languages</b></summary>
-<br>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🎨 Frontend Development</b></summary>
-<br>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend & Database</b></summary>
-<br>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🤖 AI/ML & Tools</b></summary>
-<br>
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</details>
-
-<br>
-
-## 💼 What I Can Do For You
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 Full-Stack Web Development
-Build modern, responsive web applications from scratch using MERN stack. Clean code, scalable architecture, and pixel-perfect UI.
-
-**Perfect for:** SaaS products, E-commerce sites, Dashboards
-
-</td>
-<td width="50%">
-
-### ⚙️ Backend & API Development
-Create robust REST APIs and backend systems using Java, Python, or Node.js. Secure, fast, and well-documented.
-
-**Perfect for:** Microservices, Mobile app backends, Integrations
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 AI/ML Integration
-Implement data analysis, machine learning models, and AI-powered features into your applications using Python.
-
-**Perfect for:** Data dashboards, Predictive analytics, Automation
-
-</td>
-<td width="50%">
-
-### 🎨 UI/UX Implementation
-Transform designs into responsive, interactive interfaces using React, Tailwind CSS, and Bootstrap.
-
-**Perfect for:** Landing pages, Web apps, Design systems
-
-</td>
-</tr>
-</table>
-
-<br>
 
 
 <br>
@@ -204,12 +108,6 @@ I'm always open to interesting projects and collaboration opportunities. Whether
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=omdhage&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-### ⭐ If you find my work interesting, star my repos! It means a lot!
-
-*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
-— Martin Fowler
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:00D9FF&height=120&section=footer"/>
 
