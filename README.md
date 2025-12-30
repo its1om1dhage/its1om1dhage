@@ -41,14 +41,6 @@ const myPhilosophy = () => {
 };
 ```
 
-I'm a passionate developer who loves turning complex problems into elegant solutions. Whether it's building a responsive web app, designing RESTful APIs, or implementing AI features, I bring dedication and expertise to every project.
-
-**Quick Facts:**
-- � Specialized in MERN Stack & Java 
-- 🚀 10+ successful freelance projects completed
-- 🧠 Strong foundation in Data Structures & Algorithms
-- ⚡ Quick learner, fast responder (within 24hrs)
-- 🎨 Eye for design and user experience
 
 <br>
 
